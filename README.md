@@ -1,95 +1,48 @@
 # Survival
-A game written with C# and unity.
+Survive alone in the wilderness after a horrific plane crash. Salvage, craft, hunt, trap, cook, build, explore, and travel in your quest for survival. Will you find civilization, or survive long enough to be rescued? 
 
-Learning focuses: 
--UI (Making UI as easily understandable as possible while keeping it as simple as possible) 
--Complex saves (loot inventory, time of day, rain, areas searched etc.)
--High quality sound design both for general sounds and ambient immersion
--Balance
---risk vs reward for decisions 
---Balancing random chance (chance to succeed in starting a fire, catching a fish etc.)
---Starting gear drastically effecting playthrough making each play unique
--Tracking player stats to improve future games/updates(e.g. how long did each player survive, How many plays until app deleted, how long app remains installed etc)
+## Table of Contents
+1. [About the Game](#about-the-game)
+2. [Game Features](#game-features)
+3. [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+4. [Gameplay](#gameplay)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Acknowledgments](#acknowledgments)
 
-Purpose of publishing: -To gain critical feedback and use it to better future applications -To get advice on how the app could be better optimised
+## About The Game
+You are the sole survivor of a horrific plane crash. Lost and alone, you must use your wits and courage to survive in an unknown wilderness until rescue arrives, or you find your way back to civilization.
 
-How to play:
+![Game Screenshot](https://github.com/JimmyDevGit/Survival/blob/main/Scripts/Thumbnail1.png)
 
+## Game Features
+* **Salvage Everything**: Breakdown whatever you can find for craftable parts.
+* **Craft Tools And Traps**: Essential for your survival in the wilderness.
+* **Hunt & Trap**: Actively hunt and fish or set traps to secure food supply.
+* **Catch And Cook**: Start fires using different techniques & tools. Cook what you catch, boil water to avoid illness.
+* **Build Shelters**: Build and maintain shelters to stay warm and dry.
+* **Search And Explore**: Scavenge the crash site, find edible plants and insects, gather craftable materials and firewood.
+* **Travel**: Experience 10 different landscapes. Travel to find more resources or to eventually find civilization.
+* **Perks**: Choose one perk item per playthrough for a unique advantage.
 
-You are the sole survivor of a horrific plane crash. You're completely alone and no one knows exactly where you are. There's only two ways out.
+## Getting Started
 
--Keep moving until you find civilization or;
+### Prerequisites
+None.
 
--Survive long enough to be rescued.
+### Installation
+* GooglePlay: https://play.google.com/store/apps/details?id=com.ScheisseHouseGames.Survival&hl=en_ZA&gl=US
+* Itch: https://scheisse-house-games.itch.io/survival
 
+## Gameplay
+Point and click.
 
-Salvage Everything
+## Contributing
+None.
 
+## License
 
--Breakdown whatever you can find to use for craftable parts
-
-Craft Tools And Traps
-
-
--Craft everything you will need to survive the wilderness
-
-Hunt & Trap
-
-
--Actively hunt and fish and/or;
-
--Place traps and wait for an animal to set them off while you focus on other things
-
-Catch And Cook
-
--Start fires using different techniques & tools
-
--Cook what you catch
-
--Boil water to avoid illness
-
-Build Shelters
-
-
--Build shelters to keep you warm and dry
-
--Maintain your shelter to keep it waterproof
-
-Search And Explore
-
-
--Find salvageable materials at the crash site
-
--Find edible plants and insects
-
--Find craftable materials to use later
-
--Collect fire wood
-
-Travel
--10 different landscapes
-
--Travel to find more resources
-
--Travel to eventually find civilization
-
-Perks
-
--Choose ONLY ONE perk item per playthrough
-
--LIGHTER: Guaranteed fires provided you have wood and tinder
-
--MRE: A full meal ready to eat
-
--BACKPACK: Extended storage capacity
-
--AXE: Twice as efficient for harvesting wood
-
-Will You Survive?
-Download and play to find out!
-
-Links:
-GooglePlay:
-https://play.google.com/store/apps/details?id=com.ScheisseHouseGames.Survival&hl=en_ZA&gl=US
-Itch:
-https://scheisse-house-games.itch.io/survival
+## Acknowledgments
+None.
