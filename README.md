@@ -34,7 +34,7 @@ None.
 
 ### Installation
 * GooglePlay: https://play.google.com/store/apps/details?id=com.ScheisseHouseGames.Survival&hl=en_ZA&gl=US
-* Itch: https://scheisse-house-games.itch.io/survival
+* Itch: https://jimmygame.itch.io/survival
 
 ## Gameplay
 Point and click.
